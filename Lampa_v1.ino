@@ -9,12 +9,12 @@
 
 
 #define BUZZER_PIN  		2
-#define RELAY1_PIN 			7
+#define RELAY1_PIN 		7
 #define RELAY2_PIN  		6
 #define RELAY3_PIN  		5
 
 #define IR_PIN      		3
-#define LIGHTS_PIN      A0
+#define LIGHTS_PIN      	A0
 
 #define LED_PIN     		10
 #define COLOR_ORDER 		RGB
@@ -22,24 +22,24 @@
 #define NUM_LEDS    		12
 
 #define BRIGHTNESS  		100
-#define BEEPTIME 				11
+#define BEEPTIME 		11
 #define LIGHTLEVEL  		300
 
-#define LEDONSPEED			70
-#define LEDOFFSPEED			15
+#define LEDONSPEED		70
+#define LEDOFFSPEED		15
 
 #define NOOFPROGRAMMS		11
 
-#define SBLEDON					0
-#define SBRELY1 				1
-#define SBRELY2					2
-#define SBRELY3					3
+#define SBLEDON			0
+#define SBRELY1 		1
+#define SBRELY2			2
+#define SBRELY3			3
 
 
-#define TBDBEEP		   		0
-#define TBBEEP				  1
-#define TBLED						2
-#define TBLEDREF				3
+#define TBDBEEP		   	0
+#define TBBEEP			1
+#define TBLED			2
+#define TBLEDREF		3
 
 
 // COOLING: How much does the air cool as it rises?
